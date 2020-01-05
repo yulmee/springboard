@@ -1,10 +1,11 @@
-Folders: 
-1) 
-2)
-3)
-4) Reports: Contains progress reports and slides
+** Folders: **
+1) Reports: Contains progress reports and slides
+2) Data_CSV : Contains intermediat data files generated from wrangling data
+3) Data_Twitter: Contains raw json content downloaded from Twitter web api
+4) Stock_Price: Contains stock price historical data from yahoo finance website
 
-Notebooks:
+
+** Notebooks: **
 
 1. Data Gathering
 1) https://github.com/yulmee/springboard/blob/master/CapStone2/Get_Twitter_Feed_Full_Archive_WC.ipynb
