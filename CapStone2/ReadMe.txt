@@ -1,3 +1,9 @@
+Folders: 
+1) 
+2)
+3)
+4) Reports: Contains progress reports and slides
+
 Notebooks:
 
 1. Data Gathering
