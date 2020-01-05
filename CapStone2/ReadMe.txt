@@ -1,5 +1,5 @@
 ** Folders: **
-1) Reports: Contains progress reports and slides
+1) Reports: Contains itinial ideas, proposals, progress reports and slides
 2) Data_CSV : Contains intermediat data files generated from wrangling data
 3) Data_Twitter: Contains raw json content downloaded from Twitter web api
 4) Stock_Price: Contains stock price historical data from yahoo finance website
