@@ -26,8 +26,14 @@
 EDA
 1) https://github.com/yulmee/springboard/blob/master/CapStone2/Stock_Prices.ipynb 
     Stock price
+2) https://github.com/yulmee/springboard/blob/master/CapStone2/Stock_Prices-Difference.ipynb
+    Changes in stock price from each day. 
 2) https://github.com/yulmee/springboard/blob/master/CapStone2/Explore_data_in_Pymongo_Twitter.ipynb
     Twitter sentiment analysis data 
 
 Modeling
 1) https://github.com/yulmee/springboard/blob/master/CapStone2/Sentiment_Analysis_Twitter_Explore_Stock_and_Twitter.ipynb 
+2) https://github.com/yulmee/springboard/blob/master/CapStone2/Sentiment_Analysis_Twitter_Explore_with_bootstrap-and_weighting-against_stock_price.ipynb
+   Regression for stock price using sentiment scores as predictor variables.
+3) https://github.com/yulmee/springboard/blob/master/CapStone2/Sentiment_Analysis_Twitter_Explore_with_bootstrap-and_weighting-against_stock_price-difference.ipynb
+   Regression for stock price changes using sentiment scores as predictor variables.
